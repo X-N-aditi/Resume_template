@@ -1,0 +1,27 @@
+.st-font {
+    font-family: "Satisfy";
+}
+html, body{
+    height: 100%
+}
+.container-fluid {
+    min-height: 100%;
+}
+.i-colo {
+    color: chartreuse;
+}
+.ss-color {
+    color: aliceblue;
+}
+a.nav-link {
+    color: beige;
+}
+a.nav-link:hover {
+    color: black;
+    background-color: darkgoldenrod;
+}
+a.nav-link.active {
+    color: black;
+    background-color: darkgoldenrod;
+    font-weight: bold;
+}
